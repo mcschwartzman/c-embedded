@@ -1,0 +1,1 @@
+"./LcdDriver/Sharp96x96.obj" "./LcdDriver/HAL_MSP_EXP430FR5529_Sharp96x96.obj" "./fonts/fontfixed6x8.obj" "./images/TI_Logo_69x64.obj" "./images/LPRocket_96x37.obj" "./peripherals.obj" "./guitarhero.obj" -l"libc.a" "../lnk_msp430f5529.cmd" "../lib/driverlib.lib" "../lib/grlib.lib" 
